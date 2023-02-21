@@ -1,0 +1,27 @@
+@media (max-width: 30em) {
+  .order-summary {
+    width: 35rem;
+    height: 65rem;
+  }
+  .main-heading {
+    font-size: 2rem;
+  }
+  .main-heading-text {
+    font-size: 1.2rem;
+  }
+  .music-box {
+    flex-direction: column;
+    gap: 1.8rem;
+    padding: 1.2rem;
+  }
+  .proceed-payment {
+    font-size: 1.2rem;
+    padding: 1.6rem;
+  }
+  .price-plan {
+    font-size: 1.2rem;
+  }
+  .price-year {
+    font-size: 1.2rem;
+  }
+}
